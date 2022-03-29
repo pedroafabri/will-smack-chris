@@ -13,6 +13,7 @@ func _ready():
 	$PlayButton.show()
 	$ReplayButton.hide()
 	$MenuLabel.show()
+	$MenuLabel.text = "Press space to hit chris rock\nyou have 30 seconds!"
 	$Smack.hide()
 	$HitCounter.hide()
 	$TimeCounter.hide()

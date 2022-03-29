@@ -1,0 +1,23 @@
+{
+  "name": "will-smack-chris",
+  "version": "1.0.0",
+  "description": "A game of will smith smacking chris rock made in less then an hour!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroafabri/will-smack-chris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroafabri/will-smack-chris/issues"
+  },
+  "homepage": "https://github.com/pedroafabri/will-smack-chris#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
